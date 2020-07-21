@@ -1,3 +1,4 @@
 # garystephens.github.io
 My projects
-[RandomWikipediaPage](/RandomWikipediaPage).
+* [Random Wikipedia Page](/RandomWikipediaPage)
+* [Picture Quiz Grid Generator](/picture-quiz-grid-generator)
